@@ -1,4 +1,4 @@
-<h1 align="center">👋 Senior Blockchain Engineer</h1>
+<h1 align="center">👋 Senior Full-Stack & AI Engineer (FinTech & Healthcare Specialist)</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Senior Blockchain Engineer<br>- 📚 I'm currently learning Sui/Aptos.<br>- ⚡ In my free time, I play football.</p>
+<p align="left">- 🔭 I’m working as a Senior Full Stack Engineer<br>- 📚 I'm currently learning Sui/Aptos.<br>- ⚡ In my free time, I play tennis</p>
 
 ###
 
