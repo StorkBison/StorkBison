@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Senior Full Stack Engineer<br>- 📚 I'm currently learning Sui/Aptos.<br>- ⚡ In my free time, I play tennis</p>
+<p align="left">- 🔭 I’m working as a Senior Full Stack Engineer<br>- 📚 I'm currently learning.<br>- ⚡ In my free time, I play tennis</p>
 
 ###
 
